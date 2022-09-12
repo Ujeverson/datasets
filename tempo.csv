@@ -8,7 +8,7 @@ chuva;65;70;VERDADEIRO;nao
 nublado;64;65;VERDADEIRO;sim
 sol;20;95;FALSO;nao
 sol;69;70;FALSO;sim
-chuva;75;88;;sim
+chuva;75;88;VERDADEIRO;sim
 sol;75;70;VERDADEIRO;sim
 nublado;72;90;VERDADEIRO;sim
 nublado;81;75;FALSO;sim
